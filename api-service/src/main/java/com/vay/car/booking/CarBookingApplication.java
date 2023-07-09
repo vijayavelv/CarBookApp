@@ -1,13 +1,13 @@
-package com.exam.car.booking;
+package com.vay.car.booking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BookingApplication {
+public class CarBookingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BookingApplication.class, args);
+		SpringApplication.run(CarBookingApplication.class, args);
 	}
 
 }
